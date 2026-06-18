@@ -1,0 +1,172 @@
+[
+  {
+    "id": "35437104-1dcb-4b34-a4cb-bd6106b9cd38",
+    "incident_id": "5054e85b-fa47-4748-b65d-c33009683e93",
+    "team_type": "Volunteer Group",
+    "team_members": [
+      "e004b415-3652-4403-be09-542a222922e6",
+      "78738b28-bd03-4111-8316-5f813ac79394",
+      "d763adb7-216a-4a82-bfde-d1b939ac9ba2"
+    ],
+    "resource_ids": [
+      "bfbba2d2-9750-4308-9090-de0df9affdad",
+      "dece5d7b-5313-4578-a094-1eda00a542f4"
+    ],
+    "eta": "99 minutes",
+    "notes": "Rescue team en route. Please stay in a safe location and wave a cloth to signal your position.",
+    "status": "Dispatched",
+    "assigned_by": "de085eed-75c3-4f40-b907-e133fda9dd5f",
+    "assigned_at": "2026-06-18T11:08:15.153917Z",
+    "completed_at": null
+  },
+  {
+    "id": "21b14a29-8e26-4c48-8542-7fc2b7a4ebd4",
+    "incident_id": "ec961c41-f970-488b-9bb6-6052d27e5890",
+    "team_type": "Police Unit",
+    "team_members": [
+      "e004b415-3652-4403-be09-542a222922e6",
+      "78738b28-bd03-4111-8316-5f813ac79394",
+      "d763adb7-216a-4a82-bfde-d1b939ac9ba2"
+    ],
+    "resource_ids": [
+      "bfbba2d2-9750-4308-9090-de0df9affdad",
+      "dece5d7b-5313-4578-a094-1eda00a542f4"
+    ],
+    "eta": "109 minutes",
+    "notes": "Rescue team en route. Please stay in a safe location and wave a cloth to signal your position.",
+    "status": "Completed",
+    "assigned_by": "de085eed-75c3-4f40-b907-e133fda9dd5f",
+    "assigned_at": "2026-06-18T11:08:15.153917Z",
+    "completed_at": null
+  },
+  {
+    "id": "10342e2f-4f67-462c-9589-d12a7a739020",
+    "incident_id": "9f827d39-4dbe-4da7-9b1c-049ae291eb37",
+    "team_type": "Volunteer Group",
+    "team_members": [
+      "e004b415-3652-4403-be09-542a222922e6",
+      "78738b28-bd03-4111-8316-5f813ac79394",
+      "d763adb7-216a-4a82-bfde-d1b939ac9ba2"
+    ],
+    "resource_ids": [
+      "bfbba2d2-9750-4308-9090-de0df9affdad",
+      "dece5d7b-5313-4578-a094-1eda00a542f4"
+    ],
+    "eta": "61 minutes",
+    "notes": "Rescue team en route. Please stay in a safe location and wave a cloth to signal your position.",
+    "status": "On Site",
+    "assigned_by": "de085eed-75c3-4f40-b907-e133fda9dd5f",
+    "assigned_at": "2026-06-18T10:08:15.153917Z",
+    "completed_at": null
+  },
+  {
+    "id": "4a8afffe-08a7-4515-9662-344a96a5234e",
+    "incident_id": "438e90e9-0b0a-43bc-a50b-3933955ae916",
+    "team_type": "Fire Team",
+    "team_members": [
+      "e004b415-3652-4403-be09-542a222922e6",
+      "78738b28-bd03-4111-8316-5f813ac79394",
+      "d763adb7-216a-4a82-bfde-d1b939ac9ba2"
+    ],
+    "resource_ids": [
+      "bfbba2d2-9750-4308-9090-de0df9affdad",
+      "dece5d7b-5313-4578-a094-1eda00a542f4"
+    ],
+    "eta": "15 minutes",
+    "notes": "Rescue team en route. Please stay in a safe location and wave a cloth to signal your position.",
+    "status": "On Site",
+    "assigned_by": "de085eed-75c3-4f40-b907-e133fda9dd5f",
+    "assigned_at": "2026-06-18T07:08:15.153917Z",
+    "completed_at": null
+  },
+  {
+    "id": "700e5253-3497-4a63-b225-6e72cbb9a2ab",
+    "incident_id": "d0ecfca3-f7f6-4956-b69b-f4b5a578a439",
+    "team_type": "Boat Rescue Team",
+    "team_members": [
+      "e004b415-3652-4403-be09-542a222922e6",
+      "78738b28-bd03-4111-8316-5f813ac79394",
+      "d763adb7-216a-4a82-bfde-d1b939ac9ba2"
+    ],
+    "resource_ids": [
+      "bfbba2d2-9750-4308-9090-de0df9affdad",
+      "dece5d7b-5313-4578-a094-1eda00a542f4"
+    ],
+    "eta": "105 minutes",
+    "notes": "Rescue team en route. Please stay in a safe location and wave a cloth to signal your position.",
+    "status": "En Route",
+    "assigned_by": "de085eed-75c3-4f40-b907-e133fda9dd5f",
+    "assigned_at": "2026-06-18T08:08:15.153917Z",
+    "completed_at": "2026-06-18T11:08:15.153917Z"
+  },
+  {
+    "id": "a7ef97f5-135f-40fd-8a15-524172219a2b",
+    "incident_id": "51fdbea2-cd76-450c-8869-d9dd526baa6b",
+    "team_type": "NDRF Team",
+    "team_members": [
+      "fbee598d-72cd-4377-96b2-27294dd3c254"
+    ],
+    "resource_ids": [],
+    "eta": "30 min",
+    "notes": "",
+    "status": "Dispatched",
+    "assigned_by": "de085eed-75c3-4f40-b907-e133fda9dd5f",
+    "self_assigned": false,
+    "volunteer_status": "pending",
+    "assigned_at": "2026-06-18T14:06:29.018707Z",
+    "completed_at": null
+  },
+  {
+    "id": "45bcd439-4dd2-4d60-abc4-100476cba634",
+    "incident_id": "11038e25-4ac3-4a9e-ab42-54ef7fd435b1",
+    "team_type": "Volunteer Group",
+    "team_members": [
+      "d9fc09e5-9655-44ac-9102-39de91a31235"
+    ],
+    "resource_ids": [],
+    "eta": "30  min",
+    "notes": "",
+    "status": "Dispatched",
+    "assigned_by": "2eb56243-a887-45ed-a143-83998be6e891",
+    "self_assigned": false,
+    "volunteer_status": "pending",
+    "assigned_at": "2026-06-18T14:30:10.063292Z",
+    "completed_at": null
+  },
+  {
+    "id": "18c27695-8431-4b89-9a80-29e869fce110",
+    "incident_id": "0314c0c7-d1df-4c17-9637-2ed790e39066",
+    "team_type": "Volunteer Group",
+    "team_members": [
+      "9207a061-550d-46c6-9274-c7a76e312370"
+    ],
+    "resource_ids": [],
+    "eta": "15 mins",
+    "notes": "",
+    "status": "Completed",
+    "assigned_by": "2eb56243-a887-45ed-a143-83998be6e891",
+    "self_assigned": false,
+    "volunteer_status": "pending",
+    "assigned_at": "2026-06-18T17:20:24.644515Z",
+    "completed_at": "2026-06-18T17:47:51.989399Z",
+    "updated_at": "2026-06-18T17:47:51.989399Z"
+  },
+  {
+    "id": "5e96e6ae-4921-4781-b6b4-87045152fd53",
+    "incident_id": "168570af-9b09-4ea1-93af-7a3984af9571",
+    "team_type": "Volunteer Group",
+    "team_members": [
+      "9207a061-550d-46c6-9274-c7a76e312370"
+    ],
+    "resource_ids": [],
+    "eta": "En Route",
+    "notes": "Volunteer Rajan Kumar self-assigned to assist.",
+    "status": "Completed",
+    "assigned_by": "9207a061-550d-46c6-9274-c7a76e312370",
+    "self_assigned": true,
+    "volunteer_status": "accepted",
+    "assigned_at": "2026-06-18T17:49:26.794010Z",
+    "completed_at": "2026-06-18T17:50:30.461593Z",
+    "updated_at": "2026-06-18T17:50:30.461593Z"
+  }
+]

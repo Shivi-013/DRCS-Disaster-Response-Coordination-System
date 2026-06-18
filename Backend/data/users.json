@@ -1,0 +1,98 @@
+[
+  {
+    "id": "68ca4def-e488-4ecd-902f-8f69772356f1",
+    "name": "Priya Sharma",
+    "email": "citizen@drcs.gov.in",
+    "phone": "9876543210",
+    "password": "$2b$12$qwklUDaF1skNlfy333WLT.iajjYd.tJwsyjGeVkIdNp.pEvetNLI2",
+    "role": "citizen",
+    "district": "Patna",
+    "address": "14, Gandhi Nagar, Patna",
+    "created_at": "2026-06-10T04:08:14.249677Z",
+    "is_active": true
+  },
+  {
+    "id": "2c9d60ad-90be-41e2-b1cb-9a016b889882",
+    "name": "Rajan Kumar",
+    "email": "volunteer@drcs.gov.in",
+    "phone": "9876543211",
+    "password": "$2b$12$Fw16GCOgPr3AhlPeAoJljeT4ngjEBanaQnWFKqrlhxLfZY.qw1im2",
+    "role": "volunteer",
+    "district": "Muzaffarpur",
+    "address": "22, Station Road, Muzaffarpur",
+    "created_at": "2026-06-12T06:08:14.721434Z",
+    "is_active": true
+  },
+  {
+    "id": "de085eed-75c3-4f40-b907-e133fda9dd5f",
+    "name": "DM Ananya Singh",
+    "email": "authority@drcs.gov.in",
+    "phone": "9876543212",
+    "password": "$2b$12$y8TxwsDlx1nE6v7jMfPtvuYU1jMdmxibE9JytrUlZO1HDPt30jWHW",
+    "role": "authority",
+    "district": "All Districts",
+    "address": "SDMA Headquarters, Patna",
+    "created_at": "2026-05-28T16:08:15.134887Z",
+    "is_active": true
+  },
+  {
+    "id": "eefdf533-0fa8-4d3f-b5e5-74a82b707aaa",
+    "name": "raima das",
+    "email": "raimadas@gmail.com",
+    "phone": "1234123412",
+    "password": "$2b$12$rbnqKA1dcHsG6cCoeocyweKvcuxecLVf.w8U9dc/6FV6K1xmekdnq",
+    "role": "citizen",
+    "district": "Patna",
+    "address": "",
+    "is_active": true,
+    "created_at": "2026-06-18T12:11:45.689787Z"
+  },
+  {
+    "id": "f65e53d1-ce85-42ad-a9e9-ff20a710d78d",
+    "name": "kashyap ghosh",
+    "email": "kashyap@gmail.com",
+    "phone": "123456789",
+    "password": "$2b$12$9xh7XGN2QQJ4EndUEG5gYumqU7mDiwYc6hcGgSEYXrkUmG1ROD1zq",
+    "role": "citizen",
+    "district": "Madhubani",
+    "address": "",
+    "is_active": true,
+    "created_at": "2026-06-18T13:36:29.175077Z"
+  },
+  {
+    "id": "d2f0c133-4c59-482d-ae77-ab4c5194f704",
+    "name": "aarika dubey",
+    "email": "aarika@gmail.com",
+    "phone": "9825885496",
+    "password": "$2b$12$IsoiV.oXmDxIud0XQxDTYubB7jmHE45tDPCwbQ39H/ZvWjEU5ex6m",
+    "role": "citizen",
+    "district": "Nalanda",
+    "address": "",
+    "is_active": true,
+    "created_at": "2026-06-18T14:15:14.314077Z"
+  },
+  {
+    "id": "4ced0938-5745-4bd5-9b58-9487ac5d2c83",
+    "name": "reyansh dubey",
+    "email": "reyansh@gmail.cm",
+    "phone": "7567727896",
+    "password": "$2b$12$VF.k0QmkxSl6SRtk5yc2kObHiv8bYoofQyx8hZwNp6NZfRQfoxZzO",
+    "role": "volunteer",
+    "district": "Nalanda",
+    "address": "",
+    "is_active": true,
+    "created_at": "2026-06-18T14:18:31.544148Z"
+  },
+  {
+    "id": "2eb56243-a887-45ed-a143-83998be6e891",
+    "name": "shruti",
+    "email": "shruti@gmail.com",
+    "phone": "123456789",
+    "password": "$2b$12$j8hiEN9Py1yG5zqyEEBdI.z6CeRB8edTKO1o29ZRQ/M0a/Fr4tNMO",
+    "role": "authority",
+    "district": "Madhubani",
+    "address": "",
+    "is_active": true,
+    "created_at": "2026-06-18T14:20:01.780781Z"
+  }
+]

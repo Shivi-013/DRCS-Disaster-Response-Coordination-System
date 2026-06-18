@@ -1,0 +1,222 @@
+[
+  {
+    "id": "3adcab6a-8c7e-4896-97f6-ba09bedc4f83",
+    "user_id": "68ca4def-e488-4ecd-902f-8f69772356f1",
+    "title": "Incident Report Received",
+    "message": "Your incident report from Katihar has been received and is being reviewed.",
+    "type": "success",
+    "incident_id": "5054e85b-fa47-4748-b65d-c33009683e93",
+    "read": false,
+    "created_at": "2026-06-18T07:08:15.157920Z"
+  },
+  {
+    "id": "3d8f53d3-e4a8-4918-8ed6-1590a54709cf",
+    "user_id": "68ca4def-e488-4ecd-902f-8f69772356f1",
+    "title": "Incident Report Received",
+    "message": "Your incident report from Samastipur has been received and is being reviewed.",
+    "type": "success",
+    "incident_id": "ec961c41-f970-488b-9bb6-6052d27e5890",
+    "read": false,
+    "created_at": "2026-06-18T10:08:15.157920Z"
+  },
+  {
+    "id": "c3578e2a-3927-4318-80a3-527733037723",
+    "user_id": "68ca4def-e488-4ecd-902f-8f69772356f1",
+    "title": "Rescue Team Assigned",
+    "message": "A rescue team has been dispatched to your location. ETA: 45 minutes.",
+    "type": "info",
+    "incident_id": "ec961c41-f970-488b-9bb6-6052d27e5890",
+    "read": false,
+    "created_at": "2026-06-18T09:08:15.157920Z"
+  },
+  {
+    "id": "841a4f5e-b272-446a-a50d-012e8f816a36",
+    "user_id": "68ca4def-e488-4ecd-902f-8f69772356f1",
+    "title": "Incident Report Received",
+    "message": "Your incident report from Vaishali has been received and is being reviewed.",
+    "type": "success",
+    "incident_id": "9f827d39-4dbe-4da7-9b1c-049ae291eb37",
+    "read": false,
+    "created_at": "2026-06-18T03:08:15.157920Z"
+  },
+  {
+    "id": "5c933ecc-61f3-4cc0-9bb1-63e3cfdaa0d0",
+    "user_id": "68ca4def-e488-4ecd-902f-8f69772356f1",
+    "title": "Rescue Team Assigned",
+    "message": "A rescue team has been dispatched to your location. ETA: 45 minutes.",
+    "type": "info",
+    "incident_id": "9f827d39-4dbe-4da7-9b1c-049ae291eb37",
+    "read": true,
+    "created_at": "2026-06-18T08:08:15.157920Z"
+  },
+  {
+    "id": "39ec79b4-2e60-4536-a341-2d72f2293f97",
+    "user_id": "68ca4def-e488-4ecd-902f-8f69772356f1",
+    "title": "Incident Report Received",
+    "message": "Your incident report from Muzaffarpur has been received and is being reviewed.",
+    "type": "success",
+    "incident_id": "438e90e9-0b0a-43bc-a50b-3933955ae916",
+    "read": true,
+    "created_at": "2026-06-18T04:08:15.157920Z"
+  },
+  {
+    "id": "447c000a-3214-405f-bb04-df660402ebf6",
+    "user_id": "68ca4def-e488-4ecd-902f-8f69772356f1",
+    "title": "Rescue Team Assigned",
+    "message": "A rescue team has been dispatched to your location. ETA: 45 minutes.",
+    "type": "info",
+    "incident_id": "438e90e9-0b0a-43bc-a50b-3933955ae916",
+    "read": true,
+    "created_at": "2026-06-18T11:08:15.157920Z"
+  },
+  {
+    "id": "29140c1c-0c52-4a3a-b29f-8b389da9774d",
+    "user_id": "68ca4def-e488-4ecd-902f-8f69772356f1",
+    "title": "Incident Report Received",
+    "message": "Your incident report from Muzaffarpur has been received and is being reviewed.",
+    "type": "success",
+    "incident_id": "d0ecfca3-f7f6-4956-b69b-f4b5a578a439",
+    "read": true,
+    "created_at": "2026-06-18T10:08:15.157920Z"
+  },
+  {
+    "id": "71cfc414-7437-40f3-a190-30f57da5ada1",
+    "user_id": "eefdf533-0fa8-4d3f-b5e5-74a82b707aaa",
+    "title": "Incident Report Received",
+    "message": "Your incident report from Patna has been received and is being reviewed by our team.",
+    "type": "success",
+    "incident_id": "168570af-9b09-4ea1-93af-7a3984af9571",
+    "read": false,
+    "created_at": "2026-06-18T12:14:32.353746Z"
+  },
+  {
+    "id": "572a012c-c86f-4e95-b084-f1ea9c0a117e",
+    "user_id": "68ca4def-e488-4ecd-902f-8f69772356f1",
+    "title": "Incident Report Received",
+    "message": "Your incident report from Madhubani has been received and is being reviewed by our team.",
+    "type": "success",
+    "incident_id": "0314c0c7-d1df-4c17-9637-2ed790e39066",
+    "read": false,
+    "created_at": "2026-06-18T13:22:54.202277Z"
+  },
+  {
+    "id": "0311dfc3-fcd0-4ff2-94c5-c3d8b8152f01",
+    "user_id": "f65e53d1-ce85-42ad-a9e9-ff20a710d78d",
+    "title": "Incident Report Received",
+    "message": "Your incident report from Madhubani has been received and is being reviewed by our team.",
+    "type": "success",
+    "incident_id": "51fdbea2-cd76-450c-8869-d9dd526baa6b",
+    "read": false,
+    "created_at": "2026-06-18T13:41:22.821644Z"
+  },
+  {
+    "id": "bbd99fdd-13a0-4d89-b2a2-99175711a19f",
+    "user_id": "f65e53d1-ce85-42ad-a9e9-ff20a710d78d",
+    "title": "Rescue Team Assigned",
+    "message": "A NDRF Team has been assigned to your incident. Estimated arrival: 30 min.",
+    "type": "info",
+    "incident_id": "51fdbea2-cd76-450c-8869-d9dd526baa6b",
+    "read": false,
+    "created_at": "2026-06-18T14:06:29.020709Z"
+  },
+  {
+    "id": "6667ac85-a038-481f-a3bb-a7d32563975e",
+    "user_id": "d2f0c133-4c59-482d-ae77-ab4c5194f704",
+    "title": "Incident Report Received",
+    "message": "Your incident report from Nalanda has been received and is being reviewed by our team.",
+    "type": "success",
+    "incident_id": "11038e25-4ac3-4a9e-ab42-54ef7fd435b1",
+    "read": false,
+    "created_at": "2026-06-18T14:16:16.090032Z"
+  },
+  {
+    "id": "33a6a9d7-93f2-4c29-9f3a-e18d4ff7dc6d",
+    "user_id": "d2f0c133-4c59-482d-ae77-ab4c5194f704",
+    "title": "Rescue Team Assigned",
+    "message": "A Volunteer Group has been assigned to your incident. Estimated arrival: 30  min.",
+    "type": "info",
+    "incident_id": "11038e25-4ac3-4a9e-ab42-54ef7fd435b1",
+    "read": false,
+    "created_at": "2026-06-18T14:30:10.066293Z"
+  },
+  {
+    "id": "c58c3d05-c5a3-4f5c-bfce-02e4326858d3",
+    "user_id": "4ced0938-5745-4bd5-9b58-9487ac5d2c83",
+    "title": "You've Been Assigned to an Incident",
+    "message": "Authority has assigned you to handle a Fire incident in Nalanda. Please accept or decline from your dashboard.",
+    "type": "warning",
+    "incident_id": "11038e25-4ac3-4a9e-ab42-54ef7fd435b1",
+    "read": false,
+    "created_at": "2026-06-18T14:30:10.069295Z"
+  },
+  {
+    "id": "b9ce1095-38ec-491a-9034-1409c5e80923",
+    "user_id": "68ca4def-e488-4ecd-902f-8f69772356f1",
+    "title": "Rescue Team Assigned",
+    "message": "A Volunteer Group has been assigned to your incident. Estimated arrival: 15 mins.",
+    "type": "info",
+    "incident_id": "0314c0c7-d1df-4c17-9637-2ed790e39066",
+    "read": false,
+    "created_at": "2026-06-18T17:20:24.657258Z"
+  },
+  {
+    "id": "01b93e92-5e98-402a-8cd3-068dbe29a4f8",
+    "user_id": "2c9d60ad-90be-41e2-b1cb-9a016b889882",
+    "title": "You've Been Assigned to an Incident",
+    "message": "Authority has assigned you to handle a Building Collapse incident in Madhubani. Please accept or decline from your dashboard.",
+    "type": "warning",
+    "incident_id": "0314c0c7-d1df-4c17-9637-2ed790e39066",
+    "read": false,
+    "created_at": "2026-06-18T17:20:24.665521Z"
+  },
+  {
+    "id": "49ffe415-6ddd-44ef-9428-f6e06af730e0",
+    "user_id": "68ca4def-e488-4ecd-902f-8f69772356f1",
+    "title": "Rescue Completed",
+    "message": "Your rescue operation has been marked as completed. Thank you for your patience.",
+    "type": "success",
+    "incident_id": "0314c0c7-d1df-4c17-9637-2ed790e39066",
+    "read": false,
+    "created_at": "2026-06-18T17:47:51.995392Z"
+  },
+  {
+    "id": "dfc1f22d-f639-49f4-af8c-9e95e5382270",
+    "user_id": "de085eed-75c3-4f40-b907-e133fda9dd5f",
+    "title": "Volunteer Self-Assigned",
+    "message": "Rajan Kumar has self-assigned to Earthquake in Patna. Please review.",
+    "type": "info",
+    "incident_id": "168570af-9b09-4ea1-93af-7a3984af9571",
+    "read": false,
+    "created_at": "2026-06-18T17:49:26.801396Z"
+  },
+  {
+    "id": "0e38245c-9a57-4bde-952c-0f8228ad921f",
+    "user_id": "2eb56243-a887-45ed-a143-83998be6e891",
+    "title": "Volunteer Self-Assigned",
+    "message": "Rajan Kumar has self-assigned to Earthquake in Patna. Please review.",
+    "type": "info",
+    "incident_id": "168570af-9b09-4ea1-93af-7a3984af9571",
+    "read": false,
+    "created_at": "2026-06-18T17:49:26.803649Z"
+  },
+  {
+    "id": "6271ca03-b841-417d-85ae-8e8ab451b8ad",
+    "user_id": "eefdf533-0fa8-4d3f-b5e5-74a82b707aaa",
+    "title": "Rescue Team Assigned",
+    "message": "A Volunteer Group has been assigned to your incident. Estimated arrival: En Route.",
+    "type": "info",
+    "incident_id": "168570af-9b09-4ea1-93af-7a3984af9571",
+    "read": false,
+    "created_at": "2026-06-18T17:49:26.842415Z"
+  },
+  {
+    "id": "ce20f0d7-83bc-4f66-96f3-feabef658204",
+    "user_id": "eefdf533-0fa8-4d3f-b5e5-74a82b707aaa",
+    "title": "Rescue Completed",
+    "message": "Your rescue operation has been marked as completed. Thank you for your patience.",
+    "type": "success",
+    "incident_id": "168570af-9b09-4ea1-93af-7a3984af9571",
+    "read": false,
+    "created_at": "2026-06-18T17:50:30.468601Z"
+  }
+]

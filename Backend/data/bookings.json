@@ -1,0 +1,45 @@
+[
+  {
+    "id": "40a969cb-0964-4a77-8d8c-261e1e612d3e",
+    "camp_id": "102a06f1-af3f-40ca-92d8-6c547856cfc9",
+    "camp_name": "Patna Relief Center",
+    "camp_district": "Patna",
+    "camp_address": "NH-14, Patna",
+    "camp_phone": "9876543400",
+    "user_id": "2eb56243-a887-45ed-a143-83998be6e891",
+    "user_name": "shruti",
+    "beds_booked": 2,
+    "status": "Cancelled",
+    "notes": "test booking",
+    "booked_at": "2026-06-18T17:23:20.839915Z",
+    "cancelled_at": "2026-06-18T17:23:32.532366Z"
+  },
+  {
+    "id": "973ba6a8-4769-4148-bed6-794710322991",
+    "camp_id": "ed301b1e-5e3f-4f73-b98f-5d6df132bae0",
+    "camp_name": "Darbhanga Camp Alpha",
+    "camp_district": "Darbhanga",
+    "camp_address": "NH-15, Darbhanga",
+    "camp_phone": "9876543402",
+    "user_id": "2eb56243-a887-45ed-a143-83998be6e891",
+    "user_name": "shruti",
+    "beds_booked": 4,
+    "status": "Active",
+    "notes": "",
+    "booked_at": "2026-06-18T17:24:24.064631Z"
+  },
+  {
+    "id": "cda895a0-be01-48de-acea-b3819f151615",
+    "camp_id": "102a06f1-af3f-40ca-92d8-6c547856cfc9",
+    "camp_name": "Patna Relief Center",
+    "camp_district": "Patna",
+    "camp_address": "NH-14, Patna",
+    "camp_phone": "9876543400",
+    "user_id": "2eb56243-a887-45ed-a143-83998be6e891",
+    "user_name": "shruti",
+    "beds_booked": 2,
+    "status": "Active",
+    "notes": "",
+    "booked_at": "2026-06-18T17:25:10.512191Z"
+  }
+]

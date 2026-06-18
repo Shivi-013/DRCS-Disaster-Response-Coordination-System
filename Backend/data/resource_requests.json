@@ -1,0 +1,19 @@
+[
+  {
+    "id": "f2286a95-0d54-4365-8e6d-fd6de7c5573f",
+    "incident_id": "11038e25-4ac3-4a9e-ab42-54ef7fd435b1",
+    "incident_type": "Fire",
+    "incident_district": "Nalanda",
+    "resource_type": "Water Tanker",
+    "quantity": 2,
+    "urgency": "High",
+    "notes": "",
+    "status": "Approved",
+    "requested_by_user_id": "2eb56243-a887-45ed-a143-83998be6e891",
+    "requested_by_name": "shruti",
+    "volunteer_id": null,
+    "created_at": "2026-06-18T14:30:31.211263Z",
+    "reviewed_at": "2026-06-18T14:30:56.979763Z",
+    "reviewed_by": "shruti"
+  }
+]
